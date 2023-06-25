@@ -1,5 +1,5 @@
 # Bailey-Pipeline
-Background:
+Background: <br>
 The Bailey Pipeline, created to do DNA analysis of soil from the Old Vero Man archaeology site. Named after my pug. <br>
 This program takes FASTQ or FASTA files, runs basic quality controls on them, then compares reads to the NCBI database to return a Krona pie chart of the constituent organisms. <br>
 I began working on DNA analysis at Indian River State College sometime in 2018. I was a paid volunteer at the paleontology lab that was set up by the Old Vero Ice Age Sites Committee. <br>

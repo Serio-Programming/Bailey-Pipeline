@@ -21,7 +21,7 @@ I don't remember how long it took me, but I was able to write a program that aut
 One of my proudest moments during this time is when NCBI blocked my IP address and told me to stop, as my program was interrupting their traffic too much. I have saved this email. <br>
 Over the years, Professor Lowery and I spoke back and forth. He would ask if it was possible to do one thing or another, and I told him that I would try. <br>
 With lots of help from Professor Lowery, Professor Christopher Baechle, and Indian River State College, I got to practice my programming skills and develop scripts that yielded useful results. <br>
-We hashed out how to remove duplicated reads, how to feed information from the program into SolexaQA++, and how to make use of the Krona pie charts. <br>
+We hashed out how to remove duplicated reads, how to feed information from the program into SolexaQA++, and how to make use of the Krona pie charts. Among dozens of other things. <br>
 This all eventually culminated in the Bailey Pipeline, something I'm very proud of. <br>
 I'm happy to have had the opportunity to work with these people over the years. <br>
 I got to eat dinner with millionaires, so that was nice too. <br>

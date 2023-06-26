@@ -1,5 +1,9 @@
 # Bailey-Pipeline
-Background: <br>
+IMPORTANT: <br>
+This document is incomplete and a work in progress. Your patience is appreciated.
+<br>
+BACKGROUND: <br>
+This is a bit of story about how the program came to be. Skip this part if you're interested in how it actually works/how to run it. <br>
 The Bailey Pipeline, created to do DNA analysis of soil from the Old Vero Man archaeology site. Named after my pug. <br>
 This program takes FASTQ or FASTA files, runs basic quality controls on them, then compares reads to the NCBI database to return a Krona pie chart of the constituent organisms. <br>
 I began working on DNA analysis at Indian River State College sometime in 2018. I was a paid volunteer at the paleontology lab that was set up by the Old Vero Ice Age Sites Committee. <br>
@@ -28,3 +32,11 @@ I got to eat dinner with millionaires, so that was nice too. <br>
 This pipeline also resulted in the formation of a small business, Montrant Software and Analysis LLC, as well as lead authorship of a paper, both things that I am extremely grateful for. <br>
 The program has been uploaded to GitHub in the way that I've been using it all of this time. Currently, it is pretty ramshackle, and will not work without the other programs that are required to use it (ie. SolexaQA++, Krona, Blastn). This will, hopefully, all be rectified with time. I haven't been able to devote as much time to this project as I would like. Economic realities have gotten in the way for years now. But I have uploaded it here in hopes that someone might find use for it. <br>
 Please forgive the state of the code itself, as it could be better. I had to learn it all along the way. I spent years working on this project with what little time I had to spare between jobs, classes, moving, and all the rest of the turbulence that comes with life. <br>
+<br>
+PROGRAMS NEEDED: <br>
+The Bailey Pipeline relies on a few other programs/files to run. It won't work without them. These are listed here:<br>
+SolexaQA++ (https://solexaqa.sourceforge.net/) <br>
+NT database files (https://ftp.ncbi.nlm.nih.gov/blast/db/) <br>
+Krone pie chart template () <br>
+<br>
+STEPS IN THE PROCESS: <br>

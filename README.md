@@ -1,6 +1,6 @@
 # Bailey-Pipeline
 IMPORTANT: <br>
-This document is incomplete and a work in progress. Your patience is appreciated.
+This document is incomplete and a work in progress. Your patience is appreciated. <br>
 <br>
 BACKGROUND: <br>
 This is a bit of story about how the program came to be. Skip this part if you're interested in how it actually works/how to run it. <br>

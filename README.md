@@ -43,7 +43,7 @@ Insert information here. <br>
 <br>
 PROGRAMS NEEDED: <br>
 The Bailey Pipeline relies on a few other programs/files to run. It won't work without them. <br>
-Please review the "STEPS IN THE PROCESS" section before downloading everything all at once. <br>
+Please review the "STEPS IN THE PROCESS" and "DIRECTORY STRUCTURE" sections before downloading everything all at once. <br>
 The necessary programns/files are listed here:<br>
 SolexaQA++ (https://solexaqa.sourceforge.net/) <br>
 NT database files (https://ftp.ncbi.nlm.nih.gov/blast/db/) <br>

@@ -1,11 +1,12 @@
 # Bailey-Pipeline
+This program takes FASTQ or FASTA files, runs basic quality controls on them, then compares the DNA to an NCBI database to return a Krona pie chart displaying the constituent organisms of the sample. <br>
+<br>
 IMPORTANT: <br>
 This document is incomplete and a work in progress. It is intended to guide you on using this program. Your patience is appreciated. <br>
 <br>
 BACKGROUND: <br>
 This is a bit of story about how the program came to be. Skip this part if you're interested in how it actually works/how to run it. <br>
-The Bailey Pipeline, created to do DNA analysis of soil from the Old Vero Man archaeology site. Named after my pug. <br>
-This program takes FASTQ or FASTA files, runs basic quality controls on them, then compares reads to the NCBI database to return a Krona pie chart of the constituent organisms. <br>
+This is the Bailey Pipeline, created to do DNA analysis of soil samples from the Old Vero Man archaeology site. It's named after my pug. <br>
 I began working on DNA analysis at Indian River State College sometime in 2018. I was a paid volunteer at the paleontology lab that was set up by the Old Vero Ice Age Sites Committee. <br>
 The Committee paid for several excavations of the site, and Professor Robert Lowery and his students collected DNA samples from the soil strata during one excavation. <br>
 At the time, I was working at a warehouse taking a gap year from college. I decided to volunteer my time, and found OVIASC from their archaeological display at the Indian River County Administration Building. <br>

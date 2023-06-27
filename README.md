@@ -66,7 +66,6 @@ Steps in the pipeline: <br>
 --insert explanation <br>
 14. Produce the Krona chart <br>
 --insert explanation <br>
-<br>
 DIRECTORY STRUCTURE: <br>
 The file directory must align to a specific structure or the program will not work. It is listed here: <br>
 Insert information here. <br>

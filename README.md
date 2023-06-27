@@ -1,6 +1,6 @@
 # Bailey-Pipeline
 IMPORTANT: <br>
-This document is incomplete and a work in progress. Your patience is appreciated. <br>
+This document is incomplete and a work in progress. It is intended to guide you on using this program. Your patience is appreciated. <br>
 <br>
 BACKGROUND: <br>
 This is a bit of story about how the program came to be. Skip this part if you're interested in how it actually works/how to run it. <br>
@@ -33,10 +33,19 @@ This pipeline also resulted in the formation of a small business, Montrant Softw
 The program has been uploaded to GitHub in the way that I've been using it all of this time. Currently, it is pretty ramshackle, and will not work without the other programs that are required to use it (ie. SolexaQA++, Krona, Blastn). This will, hopefully, all be rectified with time. I haven't been able to devote as much time to this project as I would like. Economic realities have gotten in the way for years now. But I have uploaded it here in hopes that someone might find use for it. <br>
 Please forgive the state of the code itself, as it could be better. I had to learn it all along the way. I spent years working on this project with what little time I had to spare between jobs, classes, moving, and all the rest of the turbulence that comes with life. <br>
 <br>
+STEPS IN THE PROCESS: <br>
+The actual step by step process of the DNA analysis pipeline is listed here, along with a brief explanations of each step. <br>
+Insert information here. <br>
+<br>
+DIRECTORY STRUCTURE: <br>
+The file directory must align to a specific structure or the program will not work. It is listed here: <br>
+Insert information here. <br>
+<br>
 PROGRAMS NEEDED: <br>
-The Bailey Pipeline relies on a few other programs/files to run. It won't work without them. These are listed here:<br>
+The Bailey Pipeline relies on a few other programs/files to run. It won't work without them. <br>
+Please review the "STEPS IN THE PROCESS" section before downloading everything all at once. <br>
+The necessary programns/files are listed here:<br>
 SolexaQA++ (https://solexaqa.sourceforge.net/) <br>
 NT database files (https://ftp.ncbi.nlm.nih.gov/blast/db/) <br>
-Krone pie chart template () <br>
+Krona pie chart template () <br>
 <br>
-STEPS IN THE PROCESS: <br>

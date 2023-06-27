@@ -37,6 +37,35 @@ Please forgive the state of the code itself, as it could be better. I had to lea
 STEPS IN THE PROCESS: <br>
 The actual step by step process of the DNA analysis pipeline is listed here, along with a brief explanations of each step. <br>
 Insert information here. <br>
+Steps in the pipeline: <br>
+1. Open Files <br>
+--The program displays the files in the directory that are available for analysis. <br>
+2. Remove reads by length <br>
+--Reads that are above a certain length are removed. The longer the DNA, the less likely it is to be ancient. This is a parameter that can be changed in the code itself, the exact number depends on what needs to be done (ie. analysis of DNA that is not ancient). <br>
+3. Remove duplicated reads <br>
+--Duplicated reads are removed so as not to be counted/analyzed twice.
+4. Remove reads based on Thymine on their fronts/ends <br>
+--insert explanation <br>
+5. SolexaQA++ <br>
+--insert explanation <br>
+6. FASTQ to FASTA <br>
+--Converts from FASTQ format to FASTA format (essentially just removes two lines per read). This allows Megablast to be performed on the reads.
+7. Count FASTA lengths <br>
+--insert explanation <br>
+8. Megablast <br>
+--insert explanation <br>
+9. Best Hits <br>
+--For every read, the best matching organism is catalogued. <br>
+10. Match taxonomic IDs to hits <br>
+--For every read, a taxonomic ID is catalogued. <br>
+11. Retrieve taxonomic lineage of hits based on IDs <br>
+--The taxonomic IDs are used to trace the entirety of the organism's taxonomic ranks. <br>
+12. For reads with multiple best hits, condense the lineage to lowest common taxonomic rank <br>
+--For reads that have matched to multiple most likely organisms, the lowest common taxonomic rank is discerned and used as a placeholder (ie. if a read matches equally to chimpanzee, orangutan, and gorilla DNA, it might simply be recorded as Hominidae DNA, depending on specifics). <br>
+13. Convert output file to a format that can be used to produce Krona charts <br>
+--insert explanation <br>
+14. Produce the Krona chart <br>
+--insert explanation <br>
 <br>
 DIRECTORY STRUCTURE: <br>
 The file directory must align to a specific structure or the program will not work. It is listed here: <br>
